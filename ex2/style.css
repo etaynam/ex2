@@ -1,0 +1,57 @@
+body {
+    font-family: Arial;
+}
+.title {
+    color: crimson;
+    font-family: Arial;
+}
+.inputstyle {
+    color: darkblue;
+    font-weight: bold;
+}
+#button {
+    background-color: darkgreen;
+    border-radius: 30px;
+    color: #fff;
+    width: 270px;
+    height: 40px;
+    text-align: center;
+  }
+.textinput {
+    background-color: yellow;
+    font-size: 24px;
+    color: #db1261;
+}
+.border1 {
+    -webkit-box-shadow: 1px 0px 0px 5px #FF0000; 
+    box-shadow: 1px 0px 30px 5px #FF0000;
+
+}
+.border2 {
+    -webkit-box-shadow: 1px 0px 0px 5px #ffa600; 
+    box-shadow: 1px 0px 30px 5px #ffa600;
+
+}
+.border3 {
+    -webkit-box-shadow: 1px 0px 0px 5px #e5ff00; 
+    box-shadow: 1px 0px 30px 5px #e5ff00;
+
+}
+.border4 {
+    -webkit-box-shadow: 1px 0px 0px 5px #5eff00; 
+    box-shadow: 1px 0px 30px 5px #5eff00;
+
+}
+.border5 {
+    -webkit-box-shadow: 1px 0px 0px 5px #00ffb3; 
+    box-shadow: 1px 0px 30px 5px #00ffb3;
+
+}
+.border6 {
+    -webkit-box-shadow: 1px 0px 0px 5px #0066ff; 
+    box-shadow: 1px 0px 30px 5px #0066ff;
+
+}
+fieldset {
+    border: 0;
+}
